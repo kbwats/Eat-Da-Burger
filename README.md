@@ -1,7 +1,5 @@
-# Burger App
-Week 14 - Eat Da Burger Restaurant App
+# Eat Da Burger App
 
- ```
 A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. 
 
 Add a burger you'd love to chow down, then devour it! Keeps track of burgers you want 
@@ -9,16 +7,12 @@ to devour, and burgers you have already devoured.
 
 Follows the MVC design pattern and uses Node and MySQL to query and route data in the app, 
 with Handlebars to generate the HTML.
- ```
 
-### Getting Started
+## Technologies Used
 
-```
-To get started on this project, follow the installations instructions below.
-```
+<img src="https://github.com/kbwats/ReadMe/blob/master/html.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/css.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/node.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/javascript.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/jquery.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/sql.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/express.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/handlebars.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/orm.png">
 
-
-### Installations
+## Installation
 ``` Installing
 
 Before you contribute
@@ -56,45 +50,6 @@ If you see "App listening on PORT 3000" in your CLI, then you're good to go :thu
 Happy Contributing!
 
 ```
-
-
-### Built With
-
-```
-* Node.JS
-* Express
-* Handlebars
-* MySQL
-* ORM
-* JavaScript
-* JQuery
-* Bootstrap
-* HTML
-* CSS
-
-```
-
-
-### Contributers
-
-```
-* Kristen Watson
-```
-
-# Eat Da Burger App
-
-
-## Technologies Used
-
-<img src="https://github.com/kbwats/ReadMe/blob/master/html.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/css.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/node.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/javascript.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/jquery.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/sql.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/express.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/handlebars.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/orm.png">
-
-## Installation
-
-### Requirements
-* Web browser
-
-Download repository and open in browser or click link at the top of this page to open in GitHub Pages.
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
